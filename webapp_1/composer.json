@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
 	"name": "lwilliamsjr/laravelTest",
 	"description": "The Laravel Framework.",
 	"keywords": ["A database of all the unions in America and eventually beyond"],
+=======
+	"name": "laravel/laravel",
+	"description": "The Laravel Framework.",
+	"keywords": ["framework", "laravel"],
+>>>>>>> 95efb88116fc6e6b364e169dd37906eec54270cf
 	"license": "MIT",
 	"require": {
 		"laravel/framework": "4.2.*"

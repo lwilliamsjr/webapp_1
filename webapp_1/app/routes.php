@@ -15,4 +15,7 @@ Route::get('/', function()
 {
 	return View::make('hello');
 });
+<<<<<<< HEAD
 
+=======
+>>>>>>> 95efb88116fc6e6b364e169dd37906eec54270cf
