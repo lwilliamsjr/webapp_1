@@ -1,0 +1,187 @@
+* {
+  max-width: 100%;
+  font-family: 'PT Sans Narrow'; 
+  color:black;
+}
+
+
+
+
+
+/* LINKS */
+.navOne a:link {
+
+  padding:1em 2em;
+}
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color:black;
+  
+  display:block;
+
+}
+
+.profileInfo a:link {
+  padding:1em 2em;
+
+
+
+}
+
+.profileInfo a:hover {
+  background-color:red;
+}
+
+/* LINKS  ENDS*/
+
+
+
+
+
+
+
+
+/* Navigation */
+.logo{
+height: 12%;
+width: 6%;
+ 
+ 
+ 
+}
+
+nav {
+max-width: 100%;
+
+
+
+}
+ul.navOne li{
+text-align: center;
+display: inline;
+list-style: none;
+display:inline-block;
+
+margin:auto 0;
+float: right;
+margin-right: 10%;
+
+
+}
+ul.navOne a {
+  float:right;
+  padding: 1em;
+ 
+}
+
+/* sliding effect */
+
+
+a.profileInfo1 {
+  background-color: 
+  pointer-events: none;
+ 
+}
+
+
+
+
+ul{
+  list-style-type:none;
+  margin: 0;
+  
+} 
+
+
+/* Navigation END */
+
+
+
+/* Main Profile Module */
+
+.fullModule {
+
+}
+
+ /* ul.header nav {
+ display:inline-block;
+ font-size: 98px;
+
+}
+*/
+.profileHeader {
+
+width: 960px;
+height: 80px;
+border: solid 2px;
+position: relative;
+padding: 0;
+margin: 0;
+background-color: grey;
+border: 0;
+
+
+
+
+}
+.unionProfile {
+
+  width: 960px;
+  height: 516px;
+  position: relative;
+  margin: 6em auto 2em;
+  background-color: ;
+  
+  }
+
+
+
+
+
+.profileInfo {
+
+}
+
+.profileInfo1, .profileInfo2, .profileInfo3, .profileInfo4, .profileInfo5 {
+ 
+  width:32%;
+  vertical-align: top;
+  font-size: 2em;
+  padding:;
+  display: inline-block;
+  border: solid 1px;
+  margin: 0px;
+  display:block;
+  text-align: center;
+}
+.profileInfo1 {
+
+}
+.profileInfo2 {
+
+}
+.profileInfo3 {
+
+}
+.profileInfo4 {
+
+}
+.profileInfo5 {
+
+
+}
+
+
+
+
+  nav.profileInfo ul{
+      padding:0;
+      margin:0;
+     
+      border: 1px solid;
+    }          
+  /* Main Profile Module ends! */
+  .active {
+    background-color:blue;
+  }
